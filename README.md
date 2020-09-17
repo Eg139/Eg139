@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on reservation system
+- 🔭 I’m currently working on a reservation system
 - 🌱 I’m currently learning Angular and Nodejs
 - 📫 How to reach me: eric.guzman.139@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
